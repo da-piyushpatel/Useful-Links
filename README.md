@@ -8,3 +8,4 @@
 
 ## Custumization Stuff
 * [Ascii art](https://csl.name/jp2a/)
+* [Ascii art figlet](http://www.figlet.org/)
