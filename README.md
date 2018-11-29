@@ -6,6 +6,9 @@
 ## Linux Utilities
 * [Kernel Update](https://itsfoss.com/upgrade-linux-kernel-ubuntu/)
 
+## Linux Hacks
+* [Enable click mouse](https://askubuntu.com/questions/971517/synaptics-touchpad-tap-to-click-is-not-working-in-ubuntu-16-04-lts-gnome/971519)
+
 ## Documentation
 * [How drones Work](https://www.linkedin.com/pulse/how-do-drones-work-part-1-introduction-tiziano-fiorenzani/)
 
