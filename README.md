@@ -16,3 +16,7 @@
 ## Custumization Stuff
 * [Ascii art](https://csl.name/jp2a/)
 * [Ascii art figlet](http://www.figlet.org/)
+
+## ros packages
+* [calibrating camera](https://github.com/ethz-asl/ethzasl_ptam)
+* [Using Usb cam as rosnode](http://www.hyperbolicthoughts.co.uk/2015/05/lsd-slam-install.html)
